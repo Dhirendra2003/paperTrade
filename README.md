@@ -16,7 +16,15 @@ project PaperTrade uses Yahoo finance API for fetching realtime stock data. Link
 3.create database named 'papertrade'
 4.create 2 tables in DB - i)users - [id,uname,upwd,umail,umobile,money,stockHolded]
                           ii)trades - [id , userid,Ttype, price, quantity,stockname, totalvalue]
+                          ![database representation](https://github.com/Dhirendra2003/paperTrade/assets/112932001/9f12498e-7cf7-4385-b078-80bf96a7a1ef)
 
 5.update link to database in java codes.
 6.run app on server.
 
+
+Demo Images:
+![Screenshot paperTrade1](https://github.com/Dhirendra2003/paperTrade/assets/112932001/879009e7-7753-42a4-a68d-229c14b2a263)
+![Screenshot paperTrade2](https://github.com/Dhirendra2003/paperTrade/assets/112932001/9e8ff909-e3ad-40d8-83d5-2f1330db00e7)
+![Screenshot paperTrade3](https://github.com/Dhirendra2003/paperTrade/assets/112932001/3e216894-e167-4aa4-9a8d-903bd4fbe79b)
+![Screenshot paperTrade4](https://github.com/Dhirendra2003/paperTrade/assets/112932001/98959097-8b0c-4c50-b649-2a37923b1772)
+![Screenshot paperTrade5](https://github.com/Dhirendra2003/paperTrade/assets/112932001/9f0aad73-43ad-4ea1-8307-ba64330f20e9)
